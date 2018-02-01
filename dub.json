@@ -1,0 +1,9 @@
+{
+	"name": "structpretty",
+	"authors": [
+		"Clinton Sakun"
+	],
+	"description": "Dlang pretty print for structs.",
+	"copyright": "Copyright © 2018, Clinton Sakun",
+	"license": "proprietary"
+}
